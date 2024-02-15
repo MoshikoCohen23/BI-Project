@@ -1,4 +1,4 @@
-BI project for El-Al airline company. At the beginning of the project, the business questions and metrics (KPI's) were defined that guided the data retrieval process, performing ETL, and building an appropriate visual display with Power BI tool. We designed reports, dashboards and analytical tools for making data-based business decisions.
+This project involved the development of a BI tool tailored for analyzing El-Al's data. From the outset, we established clear business objectives and Key Performance Indicators (KPIs), which steered the data retrieval process, the execution of Extract, Transform, Load (ETL) operations, and the creation of a dynamic visual representation using the Power BI tool. Our efforts culminated in the design of comprehensive reports, dashboards, and analytical tools aimed at facilitating data-driven business decisions. 
 
 The repository contains 3 files:
 1. Excel that containing the star schema with the data of the entities.
